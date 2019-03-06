@@ -1,0 +1,15 @@
+Go to https://spring.io/tools.
+
+Select the file for download.
+
+Unzip the contents.
+
+Run the STS file.
+
+<b> Initial Start Error:</b>
+Exit Code 13
+
+Reason : Mismatch of 32 bit and 64 bit versions of STS and Java.
+
+Fix:  Version of STS -64 bit; 
+      Java version corrected from 32 bit to 64 biy.
